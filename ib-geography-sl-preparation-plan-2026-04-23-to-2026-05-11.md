@@ -89,9 +89,12 @@ Use `1.5 hours` as:
 
 Before `2026-05-08`, prioritize:
 
+- evaluate student mastery level across all topics related to `Paper 1` and `Paper 2`
 - complete coverage of `Freshwater` and `Food and health`
 - one usable case-study bank for each theme
 - essay planning for `10-mark` questions
+- one full simulation `Paper 1` test
+- one pre-`Paper 1` full simulation `Paper 2` test
 - keeping the three `Paper 2` core units active, not passive
 
 After `Paper 1`, shift fully to:
@@ -99,6 +102,7 @@ After `Paper 1`, shift fully to:
 - `Paper 2` compulsory structured-question speed across all three core units
 - visual stimulus reading
 - one strong `10-mark` core essay structure
+- one final full simulation `Paper 2` mock
 
 Exam structure cheat sheet:
 
@@ -110,7 +114,7 @@ Exam structure cheat sheet:
 
 | Date | Focus | What To Do |
 | --- | --- | --- |
-| `Thu 2026-04-23` | Setup and baseline | `Audio 1`: course map, exam structure, `Freshwater`, and `Food and health`. `Audio 2`: overview of the three core units. `25 min`: make one checklist with five columns: `Freshwater`, `Food and health`, `Population`, `Climate`, `Resources`. Add weak areas from memory only. |
+| `Thu 2026-04-23` | Setup, baseline, and mastery evaluation | `Audio 1`: course map, exam structure, `Freshwater`, and `Food and health`. `Audio 2`: overview of the three core units. `25 min`: make one checklist with five columns: `Freshwater`, `Food and health`, `Population`, `Climate`, `Resources`. Add weak areas from memory only, then rate current mastery for every `Paper 1` and `Paper 2` topic using a quick `1-5` scale so the weakest areas are explicit from day one. |
 | `Fri 2026-04-24` | Freshwater + Population | `Audio 1`: `Freshwater` overview and subtopic map: drainage basin hydrology, flooding, scarcity, management. `Audio 2`: `Population distribution - changing population` overview. `25 min`: write ten flashcards or a one-page summary from memory. |
 | `Sat 2026-04-25` | Freshwater depth | `30 min`: recall `Freshwater` subtopics, drainage basin processes, flood causes, and 2-3 named examples. `30 min`: do one timed `Paper 1` structured-question style practice from `Freshwater`. `20 min`: mark and log errors. `10 min`: drill numbers, place names, and definitions. |
 | `Sun 2026-04-26` | Food and health depth | `30 min`: recall `Food and health` subtopics, food systems, disease spread, and stakeholders. `30 min`: do one timed `Paper 1` structured-question style practice from `Food and health`. `20 min`: mark and log errors. `10 min`: drill case-study names and one evaluative point for each. |
@@ -119,8 +123,8 @@ Exam structure cheat sheet:
 | `Wed 2026-04-29` | Freshwater essay work + Population | `Audio 1`: `Freshwater` management strategies, water quality, water scarcity, and future management debate. `Audio 2`: `Population distribution - changing population`. `25 min`: plan one `Paper 1` extended answer from a `choice of 2` prompts, with a clear judgment. |
 | `Thu 2026-04-30` | Food and health essay work + Climate | `Audio 1`: `Food and health` stakeholders, food security, health inequalities, and sustainability futures. `Audio 2`: climate vulnerability, resilience, and responses. `25 min`: plan one `Paper 1` extended answer from a `choice of 2` prompts and underline where evaluation happens. |
 | `Fri 2026-05-01` | Case-study bank day | `Audio 1`: `Freshwater` named examples and statistics. `Audio 2`: `Resources` case studies and stewardship examples. `25 min`: create a rapid-recall sheet with `place -> issue -> causes -> impacts -> response -> evaluation`. |
-| `Sat 2026-05-02` | Paper 1 mock focus | `45 min`: complete one full `Paper 1` option question for `Freshwater`. `45 min`: complete one full `Paper 1` option question for `Food and health`. This gives you one true-length `90 min` `Paper 1` mock under strict time. |
-| `Sun 2026-05-03` | Paper 2 mock focus | `75 min`: one full, true-length `Paper 2` mock: `3` compulsory structured questions, one for each core unit, `1` compulsory visual stimulus task, and `1` extended answer from a `choice of 2`. `15 min`: review and error log. |
+| `Sat 2026-05-02` | Full Simulation Paper 1 Test | `45 min`: complete one full `Paper 1` option question for `Freshwater`. `45 min`: complete one full `Paper 1` option question for `Food and health`. Treat this as one true-length `90 min` full simulation `Paper 1` test under strict exam timing. Review and error-log the paper immediately after if time allows; otherwise carry that review into the May 4 remediation block. |
+| `Sun 2026-05-03` | Full Simulation Paper 2 Test | `75 min`: complete one full, true-length `Paper 2` simulation: `3` compulsory structured questions, one for each core unit, `1` compulsory visual stimulus task, and `1` extended answer from a `choice of 2`. `15 min`: review and error log. |
 | `Mon 2026-05-04` | Fix weakest Freshwater areas | `Audio 1`: weakest `Freshwater` content only. `Audio 2`: `Population` data, models, and common comparison points. `25 min`: redo the exact question type you handled worst on May 2 or May 3. |
 | `Tue 2026-05-05` | Fix weakest Food and health areas | `Audio 1`: weakest `Food and health` content only. `Audio 2`: `Climate` infographic and policy evaluation practice. `25 min`: do one fast visual-stimulus response set. |
 | `Wed 2026-05-06` | Exam-skill sharpening | `Audio 1`: `Paper 1` command terms and `10-mark` answer structure. `Audio 2`: `Paper 2` command terms and cross-unit links. `25 min`: write one full `10-mark` response under time. |
