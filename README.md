@@ -12,8 +12,8 @@
     - 1.5 hour
 - Based on geography-sl-hl-2017-converted.tex
 - Paper 1 two options
-  - Freashwater
   - Food and Health
+  - Urban environments
 - Do more web research
 
 

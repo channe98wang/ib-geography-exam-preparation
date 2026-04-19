@@ -13,7 +13,7 @@ This plan is built from `geography-sl-hl-2017-converted.tex` and current web res
   - `two optional themes` for `Paper 1`
   - the `SL/HL core: Geographic perspectives - global change` for `Paper 2`
 - Your updated `README.md` specifies the two `Paper 1` options as:
-  - `Freshwater`
+  - `Urban environments`
   - `Food and health`
 - The local brief also gives the assessment weighting:
   - `Paper 1 = 35%`
@@ -40,13 +40,13 @@ This plan is built from `geography-sl-hl-2017-converted.tex` and current web res
 
 ## Paper 1 Option Breakdown
 
-Based on your updated `README.md` and the current unit map from `Geography All The Way`, this plan treats `Paper 1` as:
+Based on your updated `README.md` and the current `Urban environments` revision headings from `IB Geography Pods`, this plan treats `Paper 1` as:
 
-- `Freshwater`
-  - drainage basin hydrology and geomorphology
-  - flooding and flood mitigation
-  - water scarcity and water quality
-  - water management futures
+- `Urban environments`
+  - variety of urban environments and urban spatial patterns
+  - changing urban systems, including urbanization, migration, suburbanization, gentrification, and deindustrialization
+  - urban environmental and social stresses
+  - building sustainable urban systems for the future
 - `Food and health`
   - measuring food and health
   - food systems and spread of diseases
@@ -90,7 +90,7 @@ Use `1.5 hours` as:
 Before `2026-05-08`, prioritize:
 
 - evaluate student mastery level across all topics related to `Paper 1` and `Paper 2`
-- complete coverage of `Freshwater` and `Food and health`
+- complete coverage of `Urban environments` and `Food and health`
 - one usable case-study bank for each theme
 - essay planning for `10-mark` questions
 - one full simulation `Paper 1` test
@@ -114,21 +114,21 @@ Exam structure cheat sheet:
 
 | Date | Focus | What To Do |
 | --- | --- | --- |
-| `Thu 2026-04-23` | Setup, baseline, and mastery evaluation | `Audio 1`: course map, exam structure, `Freshwater`, and `Food and health`. `Audio 2`: overview of the three core units. `25 min`: make one checklist with five columns: `Freshwater`, `Food and health`, `Population`, `Climate`, `Resources`. Add weak areas from memory only, then rate current mastery for every `Paper 1` and `Paper 2` topic using a quick `1-5` scale so the weakest areas are explicit from day one. |
-| `Fri 2026-04-24` | Freshwater + Population | `Audio 1`: `Freshwater` overview and subtopic map: drainage basin hydrology, flooding, scarcity, management. `Audio 2`: `Population distribution - changing population` overview. `25 min`: write ten flashcards or a one-page summary from memory. |
-| `Sat 2026-04-25` | Freshwater depth | `30 min`: recall `Freshwater` subtopics, drainage basin processes, flood causes, and 2-3 named examples. `30 min`: do one timed `Paper 1` structured-question style practice from `Freshwater`. `20 min`: mark and log errors. `10 min`: drill numbers, place names, and definitions. |
+| `Thu 2026-04-23` | Setup, baseline, and mastery evaluation | `Audio 1`: course map, exam structure, `Urban environments`, and `Food and health`. `Audio 2`: overview of the three core units. `25 min`: make one checklist with five columns: `Urban environments`, `Food and health`, `Population`, `Climate`, `Resources`. Add weak areas from memory only, then rate current mastery for every `Paper 1` and `Paper 2` topic using a quick `1-5` scale so the weakest areas are explicit from day one. |
+| `Fri 2026-04-24` | Urban environments + Population | `Audio 1`: `Urban environments` overview and subtopic map: variety of urban environments, changing urban systems, urban stresses, and sustainability. `Audio 2`: `Population distribution - changing population` overview. `25 min`: write ten flashcards or a one-page summary from memory. |
+| `Sat 2026-04-25` | Urban environments depth | `30 min`: recall `Urban environments` subtopics, urban land-use patterns, urbanization, migration, and 2-3 named examples. `30 min`: do one timed `Paper 1` structured-question style practice from `Urban environments`. `20 min`: mark and log errors. `10 min`: drill numbers, place names, and definitions. |
 | `Sun 2026-04-26` | Food and health depth | `30 min`: recall `Food and health` subtopics, food systems, disease spread, and stakeholders. `30 min`: do one timed `Paper 1` structured-question style practice from `Food and health`. `20 min`: mark and log errors. `10 min`: drill case-study names and one evaluative point for each. |
-| `Mon 2026-04-27` | Freshwater + Climate | `Audio 1`: `Freshwater` processes, patterns, and causes, especially basin hydrology and flood mitigation. `Audio 2`: `Global climate - vulnerability and resilience`, especially causes and major consequences. `25 min`: write one `explain` paragraph and one `analyse` paragraph. |
+| `Mon 2026-04-27` | Urban environments + Climate | `Audio 1`: `Urban environments` processes, patterns, and causes, especially urbanization, centripetal and centrifugal movements, and infrastructure growth. `Audio 2`: `Global climate - vulnerability and resilience`, especially causes and major consequences. `25 min`: write one `explain` paragraph and one `analyse` paragraph. |
 | `Tue 2026-04-28` | Food and health + Resources | `Audio 1`: `Food and health` processes, patterns, and causes, especially food systems and disease spread. `Audio 2`: `Global resource consumption and security`, especially trends and impacts. `25 min`: practise reading one graph or map and turning it into 4-5 short-response points. |
-| `Wed 2026-04-29` | Freshwater essay work + Population | `Audio 1`: `Freshwater` management strategies, water quality, water scarcity, and future management debate. `Audio 2`: `Population distribution - changing population`. `25 min`: plan one `Paper 1` extended answer from a `choice of 2` prompts, with a clear judgment. |
+| `Wed 2026-04-29` | Urban environments essay work + Population | `Audio 1`: `Urban environments` planning strategies, social and environmental stresses, sustainability, and future urban management debate. `Audio 2`: `Population distribution - changing population`. `25 min`: plan one `Paper 1` extended answer from a `choice of 2` prompts, with a clear judgment. |
 | `Thu 2026-04-30` | Food and health essay work + Climate | `Audio 1`: `Food and health` stakeholders, food security, health inequalities, and sustainability futures. `Audio 2`: climate vulnerability, resilience, and responses. `25 min`: plan one `Paper 1` extended answer from a `choice of 2` prompts and underline where evaluation happens. |
-| `Fri 2026-05-01` | Case-study bank day | `Audio 1`: `Freshwater` named examples and statistics. `Audio 2`: `Resources` case studies and stewardship examples. `25 min`: create a rapid-recall sheet with `place -> issue -> causes -> impacts -> response -> evaluation`. |
-| `Sat 2026-05-02` | Full Simulation Paper 1 Test | `45 min`: complete one full `Paper 1` option question for `Freshwater`. `45 min`: complete one full `Paper 1` option question for `Food and health`. Treat this as one true-length `90 min` full simulation `Paper 1` test under strict exam timing. Review and error-log the paper immediately after if time allows; otherwise carry that review into the May 4 remediation block. |
+| `Fri 2026-05-01` | Case-study bank day | `Audio 1`: `Urban environments` named examples and statistics. `Audio 2`: `Resources` case studies and stewardship examples. `25 min`: create a rapid-recall sheet with `place -> issue -> causes -> impacts -> response -> evaluation`. |
+| `Sat 2026-05-02` | Full Simulation Paper 1 Test | `45 min`: complete one full `Paper 1` option question for `Urban environments`. `45 min`: complete one full `Paper 1` option question for `Food and health`. Treat this as one true-length `90 min` full simulation `Paper 1` test under strict exam timing. Review and error-log the paper immediately after if time allows; otherwise carry that review into the May 4 remediation block. |
 | `Sun 2026-05-03` | Full Simulation Paper 2 Test | `75 min`: complete one full, true-length `Paper 2` simulation: `3` compulsory structured questions, one for each core unit, `1` compulsory visual stimulus task, and `1` extended answer from a `choice of 2`. `15 min`: review and error log. |
-| `Mon 2026-05-04` | Fix weakest Freshwater areas | `Audio 1`: weakest `Freshwater` content only. `Audio 2`: `Population` data, models, and common comparison points. `25 min`: redo the exact question type you handled worst on May 2 or May 3. |
+| `Mon 2026-05-04` | Fix weakest Urban environments areas | `Audio 1`: weakest `Urban environments` content only. `Audio 2`: `Population` data, models, and common comparison points. `25 min`: redo the exact question type you handled worst on May 2 or May 3. |
 | `Tue 2026-05-05` | Fix weakest Food and health areas | `Audio 1`: weakest `Food and health` content only. `Audio 2`: `Climate` infographic and policy evaluation practice. `25 min`: do one fast visual-stimulus response set. |
 | `Wed 2026-05-06` | Exam-skill sharpening | `Audio 1`: `Paper 1` command terms and `10-mark` answer structure. `Audio 2`: `Paper 2` command terms and cross-unit links. `25 min`: write one full `10-mark` response under time. |
-| `Thu 2026-05-07` | Final Paper 1 consolidation | `Audio 1`: `Freshwater` rapid recall. `Audio 2`: `Food and health` rapid recall. `25 min`: review only your checklist, case-study sheet, and error log. No new content. Finish early and protect sleep. |
+| `Thu 2026-05-07` | Final Paper 1 consolidation | `Audio 1`: `Urban environments` rapid recall. `Audio 2`: `Food and health` rapid recall. `25 min`: review only your checklist, case-study sheet, and error log. No new content. Finish early and protect sleep. |
 | `Fri 2026-05-08` | `Paper 1` exam day | Keep study light. Spend `15-20 min` only on case-study names, command terms, and essay structure. No heavy study after that. After the exam, rest for a few hours, then spend at most `20 min` listing any core topics that still feel weak for `Paper 2`. |
 | `Sat 2026-05-09` | Paper 2 reset: Population + Climate | `30 min`: closed-book recall for `Population`. `30 min`: closed-book recall for `Climate`. `20 min`: timed `Section B` or `Section C` practice. `10 min`: fix weak terminology and examples. |
 | `Sun 2026-05-10` | Paper 2 final full mock | `15 min`: rapid recall for `Resources` and your two weakest core subtopics. `75 min`: one full, strictly timed `Paper 2` mock: `3` compulsory structured questions, one per core unit, `1` compulsory visual stimulus task, and `1` extended answer from a `choice of 2`. |
@@ -174,7 +174,7 @@ From `2026-05-05` onward:
 
 The best next step is to fill in the exact named examples you have already studied for:
 
-- `Freshwater`
+- `Urban environments`
 - `Food and health`
 - `Population`
 - `Climate`
