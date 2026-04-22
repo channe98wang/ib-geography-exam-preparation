@@ -172,7 +172,7 @@ From `2026-05-05` onward:
 
 ## Next Refinement
 
-The best next step is to fill in the exact named examples you have already studied for:
+The best next step is to fill in the exact named case studies you have already studied for:
 
 - `Urban environments`
 - `Food and health`
