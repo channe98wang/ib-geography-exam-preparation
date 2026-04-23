@@ -31,6 +31,7 @@ By the end of this session you should have:
 Target length: about `12 min`, close to the weekday audio target in the main
 plan, with a natural revision pace and short pauses.
 
+Thursday, 2026-04-23. Audio 1.
 Today is not a deep memorization day. It is a map-making day. The point is to
 stop seeing IB Geography as one large blur and start seeing it as five specific
 study lanes. For this preparation window, those five lanes are `Urban
@@ -246,6 +247,7 @@ to prove mastery. It is to identify where mastery is missing.
 Target length: about `12 min`, close to the weekday audio target in the main
 plan, with a natural revision pace and short pauses.
 
+Thursday, 2026-04-23. Audio 2.
 The second audio moves from options to the shared core theme: `Geographic
 perspectives - global change`. This is the heart of `Paper 2`. The three units
 you need active in memory are `Population distribution - changing population`,
