@@ -1,0 +1,67 @@
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{colortbl}
+\usepackage{etoolbox}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{enumitem}
+
+\definecolor{TextInk}{HTML}{233142}
+\definecolor{HeadingBlue}{HTML}{1D3557}
+\definecolor{AccentTeal}{HTML}{2A7F92}
+\definecolor{AccentGold}{HTML}{C58B4E}
+\definecolor{RuleGray}{HTML}{D6E0E5}
+\definecolor{TableStripe}{HTML}{F3F8FA}
+\definecolor{SoftTint}{HTML}{F7F4EE}
+
+\color{TextInk}
+\AtBeginDocument{
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=HeadingBlue,
+    urlcolor=AccentTeal
+  }
+}
+
+\setlength{\parskip}{0.55em}
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.22}
+\arrayrulecolor{RuleGray}
+
+\titleformat{\section}
+  {\normalfont\huge\sffamily\bfseries\color{HeadingBlue}}
+  {}{0pt}{}
+  [\vspace{0.2em}{\color{AccentGold}\titlerule[1pt]}]
+
+\titleformat{\subsection}
+  {\normalfont\Large\sffamily\bfseries\color{AccentTeal}}
+  {}{0pt}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\large\sffamily\bfseries\color{HeadingBlue}}
+  {}{0pt}{}
+
+\titlespacing*{\section}{0pt}{1.6em}{0.7em}
+\titlespacing*{\subsection}{0pt}{1.1em}{0.4em}
+\titlespacing*{\subsubsection}{0pt}{0.9em}{0.3em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\sffamily\color{AccentTeal}\nouppercase{\leftmark}}
+\fancyhead[R]{\sffamily\color{HeadingBlue}IB Geography SL}
+\fancyfoot[C]{\sffamily\color{HeadingBlue}\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\makeatletter
+\renewcommand{\headrule}{\hbox to\headwidth{\color{RuleGray}\leaders\hrule height \headrulewidth\hfill}}
+\makeatother
+
+\AtBeginEnvironment{longtable}{\rowcolors{1}{TableStripe}{white}}
+\AtBeginEnvironment{tabular}{\rowcolors{1}{TableStripe}{white}}
+
+\setlist[itemize]{itemsep=3pt, topsep=4pt}
+\setlist[enumerate]{itemsep=3pt, topsep=4pt}
