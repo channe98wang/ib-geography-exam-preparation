@@ -16,8 +16,8 @@
   - Urban environments
 - Do more web research
 
-Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please creat materials for April 24th  and put them into directory "plans"
+Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please creat materials for April 25th  and put them into directory "plans"
 - the materils should be in latex format, which can be easier to convert PDF file with textbook style color schemes.
 
-Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please review the materials in directory "plans" for April 24th 
+Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please review the materials in directory "plans" for April 25th 
 - the materils should be in latex format, which can be easier to convert PDF file with textbook style color schemes.
