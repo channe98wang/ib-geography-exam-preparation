@@ -1,0 +1,234 @@
+April 28 Audio 1 Script
+Food and Health: Processes, Patterns, Causes, Food Systems, and Disease Spread
+
+Read this aloud or listen to it using text-to-speech. Pause at each memory
+check and answer without looking back.
+
+Minute 0-2: the frame.
+
+Today the Food and health focus is not just "what are the problems?" The focus
+is process, pattern, and cause. A process is how change happens. A pattern is
+where the outcome is stronger, weaker, concentrated, or uneven. A cause is the
+reason that process begins or continues. In Food and health, strong answers
+connect all three.
+
+For example, a weak answer says, "Some people are hungry because they are poor."
+A stronger geography answer says, "Low income reduces access to nutritious food
+because households cannot always afford enough safe and varied food, even where
+food is physically available in shops or markets. This can produce a spatial
+pattern of undernutrition in poorer households, rural areas, informal
+settlements, or regions affected by conflict or weak transport." That answer is
+better because it separates availability from access, then links poverty to a
+visible pattern.
+
+Four words organize food security: availability, access, utilization, and
+stability. Availability asks whether enough food exists in a place. Access asks
+whether people can obtain it physically, socially, and economically.
+Utilization asks whether food is safe, nutritious, and usable by the body, which
+depends on diet quality, health, clean water, and sanitation. Stability asks
+whether access can continue over time despite price shocks, drought, conflict,
+job loss, or supply disruption.
+
+Add measurement language before you move on. IB questions often start with
+indicators, not with long theory. Food can be measured using daily calorie
+intake, undernourishment, child stunting, food price, food availability, or a
+composite measure such as a hunger index. Health can be measured using life
+expectancy, infant mortality, child mortality, morbidity, disease incidence,
+prevalence rates, BMI, obesity rates, and access to safe water or healthcare.
+Each indicator has a limitation. Calorie intake does not show micronutrient
+quality. BMI does not explain income, culture, or exercise. Life expectancy is a
+broad outcome but does not reveal the exact cause of poor health. A strong
+answer therefore uses indicators as evidence, then explains the process behind
+them.
+
+Memory check. Say the four food-security words from memory. Then add one
+sentence explaining why food can be available nationally while some households
+remain food insecure.
+
+Minute 2-5: food systems as chains.
+
+A food system is the full chain of actors and processes involved in feeding
+people. It includes land, water, seeds, fertilizer, labor, farming, storage,
+processing, transport, wholesale, retail, marketing, cooking, consumption,
+waste, regulation, and public health. Exam answers often improve when you stop
+treating food as a product and start treating it as a system.
+
+Food systems shape health in several ways. First, they affect quantity. If
+production, storage, or transport is weak, less food reaches consumers. Second,
+they affect quality. Processing and retail can improve safety and shelf life,
+but they can also encourage diets high in sugar, salt, fats, or
+ultra-processed foods. Third, they affect price. Subsidies, trade, transport
+costs, energy costs, and market power can make nutritious food either
+affordable or unaffordable. Fourth, they affect risk. Poor storage,
+contaminated water, weak refrigeration, or unsafe preparation can increase
+disease risk.
+
+Think of a food-system answer as a chain: input pressure -> production or
+supply change -> price or access change -> diet or health outcome -> uneven
+impact. For instance, drought can reduce crop yields. Lower supply can raise
+prices. Higher prices can reduce access for low-income households. Reduced
+access can increase undernutrition or force people toward cheaper, less
+nutritious food. The impact is uneven because wealth, government support,
+storage, trade links, and social safety nets vary between places.
+
+Use the four food-security dimensions as a paragraph builder. If a question
+asks why a place is food insecure, start with the dimension most visible in the
+source. If crops have failed, begin with availability. If food is present but
+too expensive, begin with access. If illness, poor sanitation, or unsafe water
+prevents people from benefiting from food, begin with utilization. If a place is
+normally secure but becomes insecure during drought, conflict, price shocks, or
+supply-chain disruption, begin with stability. Then add scale. A country may
+have enough food nationally but still contain households with poor access. A
+household may have enough calories but poor diet quality. A city may have
+supermarkets but also food deserts, informal settlements, or groups priced out
+of nutritious food. This is why the best answers do not simply say "more food
+is needed." They explain which part of the food-security system is failing.
+
+Minute 5-7: patterns and causes in food and health.
+
+Food and health patterns are uneven at multiple scales. At a global scale, some
+countries face high levels of undernutrition while others face high levels of
+overnutrition and diet-related non-communicable disease. At a national scale,
+one region may have better food access, clinics, clean water, or transport than
+another. At a city scale, a high-income district may have supermarkets,
+healthcare, refrigeration, and safe recreation space, while a low-income
+district may have lower food choice, more pollution, worse housing, and weaker
+healthcare access.
+
+The IB phrase for this spatial variation is areal differentiation. It means
+that food systems, health outcomes, disease risk, and access to services differ
+from place to place. Use the phrase when you compare regions, urban and rural
+areas, income groups, or neighborhoods. For example, one area may have high food
+availability but poor utilization because water quality and sanitation are
+weak. Another area may have high calorie intake but rising obesity and diabetes
+risk because diets are changing. Areal differentiation helps you avoid flat
+answers. It pushes you to ask: where is the problem most severe, who is
+affected, and why does that place differ from another place?
+
+The causes are never only physical. Climate, soil, water, pests, and disease
+matter, but so do income, trade, infrastructure, governance, education, gender,
+conflict, market power, cultural preferences, advertising, and healthcare. That
+is why a good Food and health answer often uses a double explanation:
+environmental conditions create one pressure, while social and economic
+conditions decide who is most exposed and who can respond.
+
+Now define nutrition transition. It is the shift from traditional diets and
+infectious-disease burdens toward more processed foods, higher sugar and fat
+intake, more sedentary lifestyles, and greater risk of non-communicable diseases
+such as diabetes and heart disease. This does not mean every place follows the
+same path. Poorer groups may still face undernutrition while wealthier or urban
+groups face overnutrition. That is called a double burden of malnutrition, and
+it is a strong way to explain why one country can contain both hunger and
+obesity at the same time.
+
+The studied Food and health anchor in the case-study sheet is TNCs in Brazil
+(Nestle). Use it carefully. It can help with stakeholder questions about food
+systems, processed food, supply chains, marketing, employment, and access. The
+evaluative point is that a TNC may widen access and create income opportunities
+while also increasing concern about processed-food marketing, nutrition
+transition, unequal power, and public-health outcomes.
+
+Minute 7-10: disease spread.
+
+Disease spread is also geographical because it has pathways, barriers, and
+uneven vulnerability. Some diseases spread through contaminated water or food.
+Some spread through vectors such as mosquitoes. Some spread directly between
+people through close contact or respiratory transmission. Some are shaped by
+mobility networks such as commuting, migration, tourism, conflict displacement,
+and trade.
+
+The key IB word here is diffusion. Diffusion means spread through space. For
+disease, contagious diffusion means spread through direct or close contact from
+person to person or nearby place to nearby place. Relocation diffusion happens
+when infected people move and introduce a disease to a new area. Hierarchical
+diffusion means spread through an ordered network, such as from a major city or
+transport hub to smaller places. Expansion diffusion means the disease spreads
+outward while remaining present in the original area. You do not need every type
+in every answer, but naming one type can turn a vague sentence about "spread"
+into a geographical explanation.
+
+When writing about disease spread, avoid naming a disease and then listing
+random factors. Build a route. Use this chain: environmental or social
+condition -> transmission route -> exposed group -> health impact -> response or
+limitation. For a water-borne disease pathway, poor sanitation can contaminate
+water sources. People using that water for drinking, cooking, or washing may be
+exposed. Children, elderly people, and people with weak healthcare access may be
+more vulnerable. Health impacts can include illness, lost school or work time,
+and sometimes death. Responses can include water treatment, sanitation
+infrastructure, public health education, vaccination where relevant, and rapid
+treatment, but these depend on funding, governance, trust, and accessibility.
+
+For a vector-borne pathway, climate and land-use conditions may support the
+vector. Standing water, poor drainage, warmer conditions, vegetation change, or
+urban growth can create breeding habitats. Human movement can then connect
+infected and non-infected places. Healthcare systems can reduce mortality and
+spread through testing, treatment, information, and prevention.
+
+Use named disease anchors even if you do not memorize statistics today. For a
+water-borne pathway, cholera in Haiti after the 2010 earthquake is a useful
+anchor because damaged sanitation, contaminated water, displacement, and weak
+health infrastructure made transmission easier. The exam point is not the number
+of cases; it is the chain from infrastructure failure to contaminated water to
+vulnerable people to public-health response. For a vector-borne pathway, dengue
+in Singapore is a useful anchor because dense urban settlement, standing water,
+mosquito breeding habitats, human movement, and public-health surveillance all
+shape risk. Singapore also shows that wealth and governance do not remove
+disease risk completely; they change the capacity to monitor, control, and
+respond. Keep direct respiratory spread as a possible pathway, but for Food and
+health revision today, give most weight to water-borne and vector-borne disease
+because those are more central to this option.
+
+Minute 10-12: turning content into exam points.
+
+For short-response questions, one point should do one job. Do not try to write
+a mini-essay in every sentence. A good point usually has four parts: a clear
+claim, one piece of evidence or specific vocabulary, a causal link, and a
+consequence. For example: "Unequal food access can produce health inequality
+because low-income households may rely on cheaper, less nutritious food,
+increasing risk of undernutrition or diet-related disease." That is one useful
+point. It is compact but complete.
+
+For command terms, match the verb. Describe needs a visible pattern or feature,
+such as "Region A has higher child undernutrition than Region B." Explain needs
+a reason and a process, such as "This may happen because lower income reduces
+access to varied food and healthcare." Suggest allows a plausible reason from
+the source and your own knowledge. Compare needs both similarities and
+differences where possible. Analyse breaks the issue into parts and shows
+relationships, for example how income, water quality, disease exposure, and
+food prices interact. If you are stuck, write one sentence for evidence, one
+for process, and one for consequence.
+
+Here is a model short-response point in spoken form. Region A's high child
+undernutrition and lower safe-water access suggest that food insecurity is
+linked to both access and utilization. Food may be limited or unaffordable, but
+poor water and sanitation can also prevent people from using food safely,
+increasing disease risk and worsening child health. A limitation is that the
+source does not show income, conflict, seasonality, or household distribution,
+so the pattern needs further evidence before a full conclusion.
+
+Final self-test. Name one food indicator, one health indicator, one disease
+diffusion type, one named disease example, and one stakeholder. Then connect
+them in one spoken sentence. For example: "A high child mortality rate may be
+linked to water-borne disease such as cholera where contaminated water and weak
+sanitation increase exposure, while governments, NGOs, and health services try
+to reduce risk through water treatment and public-health response." That single
+sentence contains evidence, process, example, stakeholder, and response. This is
+the density you want in Paper 1 short responses.
+
+One last recap before you stop. Food and health questions reward precise
+relationships: indicator to pattern, pattern to process, process to impact, and
+impact to response. If you can say availability, access, utilization,
+stability, areal differentiation, nutrition transition, and diffusion without
+looking, you have the core vocabulary for today's Food and health focus.
+
+Pause for ten seconds and test retrieval. If any one of those terms feels weak,
+say its definition once, then use it in a sentence about either Nestle in
+Brazil, cholera in Haiti, dengue in Singapore, or the workbook's food-health
+graph.
+If the sentence includes a place, a process, and an outcome, it is already more
+geographical than a list of facts.
+
+End Audio 1 by saying two chains from memory:
+
+1. food-system factor -> food-security dimension -> health outcome
+2. disease condition -> transmission route -> vulnerable group -> response
