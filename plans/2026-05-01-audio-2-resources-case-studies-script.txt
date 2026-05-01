@@ -1,0 +1,264 @@
+Friday 2026-05-01. Audio 2. Global resource consumption and security: case
+studies and stewardship examples.
+
+Minute 0 to 2: resource case-study discipline.
+
+This audio is for the Paper 2 core unit Global resource consumption and
+security. The plan asks for Resources case studies and stewardship examples.
+Use the same case-study chain as Urban environments: place, issue, causes,
+impacts, response, evaluation. For Resources, add two extra questions: secure
+for whom, and sustainable for how long?
+
+Resource security means reliable, affordable, safe, and acceptable access over
+time. Stewardship means responsible management of resources for present and
+future users. Stewardship can include conservation, recycling, repair,
+reuse, efficient technology, demand management, pollution control, regulation,
+pricing, producer responsibility, and public trust. It is not just "using less."
+It is managing a resource system so that costs and benefits are not dumped onto
+other people, other places, or the future.
+
+The student case-study sheet lists one resource anchor: China no longer
+accepting our e-waste. That should be protected because it links high
+consumption, waste trade, pollution risk, circular economy, and uneven
+responsibility. A second strong stewardship anchor is Singapore water security.
+China's waste-import restrictions show what happens when a linear economy is
+disrupted. Singapore's water system shows how long-term planning can improve
+resource security despite physical scarcity.
+
+Today, keep three case cells ready. First, the global e-waste scale: 62 billion
+kilograms of e-waste were generated globally in 2022, with 22.3 percent
+formally collected and recycled, according to the Global E-waste Monitor 2024.
+Second, China changed waste import policy in 2018, banning 24 types of solid
+waste in four classes, including unsorted wastepaper and scrap plastic. Third,
+Singapore uses the Four National Taps: local catchment, imported water, NEWater,
+and desalinated water.
+
+Memory check. Define stewardship in one sentence. Then say: secure for whom,
+at what scale, and for how long?
+
+Minute 2 to 5: China, e-waste, and the linear economy.
+
+The China waste case starts with consumption outside China as well as policy
+inside China. High-consuming societies buy electronics, packaging, paper, and
+manufactured goods. When products become waste, some materials can be reused
+or recycled, but only if collection, sorting, processing, labor protection, and
+pollution control are strong. For years, many exporting countries relied on
+China and other destinations to absorb recyclable or waste material. This
+shifted part of the environmental burden away from the places where consumption
+occurred.
+
+In early 2018, China's import ban on selected solid wastes came into effect.
+The State Council report says China banned 24 types of solid waste in four
+classes, including unsorted wastepaper and scrap plastic, due to environmental
+concerns. The same report says stricter permit controls followed and that many
+exporting countries had to find new destinations or handle more material
+themselves. Later policy changes tightened the system further. For exam use,
+the key point is not just the number 24. The key point is that one country's
+environmental regulation exposed the dependence of other countries on exporting
+waste instead of designing a circular system at home.
+
+Now connect it to global e-waste. The Global E-waste Monitor 2024 reports that
+the world generated 62 billion kilograms of e-waste in 2022, equal to 7.8
+kilograms per person on average. Only 22.3 percent was documented as formally
+collected and recycled in an environmentally sound way. It also says global
+e-waste rose from 34 billion kilograms in 2010 to 62 billion kilograms in
+2022, while formal collection and recycling rose much more slowly. This is a
+strong resource-security point because e-waste contains valuable materials as
+well as hazardous substances. Poor management wastes metals and creates health
+and pollution risks.
+
+Use the China case in a six-link chain. Place: China and waste-exporting
+countries such as the United States, Japan, Germany, or Britain, depending on
+the source. Issue: imported recyclable and waste materials, including e-waste
+and related solid waste, created pollution and management pressure. Causes:
+high consumption, short product life cycles, weak repair culture, cheap
+shipping, unequal recycling capacity, and demand for raw materials. Impacts:
+pollution risk in receiving areas, disruption for exporters after the ban,
+stockpiling, landfill or incineration pressure, and the need for domestic
+recycling reform. Response: import bans, stricter permits, circular economy,
+extended producer responsibility, design for repair, collection systems, and
+domestic processing. Evaluation: the ban reduced one pathway of pollution for
+China, but it did not solve global waste generation; responsibility shifted
+back to producers, consumers, and exporting countries.
+
+That final evaluation is essential. Do not write that China's policy solved
+e-waste. It changed incentives and geography. A strong answer says the case
+shows how a linear economy creates hidden dependencies. Stewardship requires
+reducing waste at source, designing longer-life products, building safe
+recycling systems, and making producers or consumers responsible for end-of-life
+costs.
+
+Minute 5 to 8: Singapore water stewardship.
+
+Singapore is a strong resource stewardship case because it lacks large natural
+freshwater sources but has used planning, technology, infrastructure, pricing,
+and public management to improve water security. The Singapore Ministry of
+Sustainability and the Environment says Singapore is among the most
+water-stressed countries in the world because it lacks large rivers, natural
+springs, glaciers, and land for collecting water. The response is the Four
+National Taps: local catchment, imported water, NEWater, and desalinated water.
+
+Store the useful statistics. About two-thirds of Singapore's land surface
+serves as water catchment. Rainwater is moved through more than 8,000
+kilometers of drains and canals to 17 reservoirs. Imported water from Johor is
+allowed under the 1962 Water Agreement, with up to 250 million gallons of raw
+water per day, and that agreement expires in 2061. NEWater was introduced in
+2002 and is produced using microfiltration, reverse osmosis, and disinfection.
+It has passed more than 150,000 scientific tests and Singapore currently has
+five NEWater factories. Desalination is another tap, and Singapore has five
+desalination plants.
+
+Now add demand and limitation. Singapore consumes about 440 million gallons of
+water per day, and total demand is expected to almost double by 2065 as
+population and the economy grow. Household water consumption fell from 165
+liters per capita per day in 2003 to 141 in 2019, rose during the COVID period,
+and returned to 141 in 2023. Desalinated water is weather-resilient, but it is
+energy intensive. Imported water improves supply, but it creates dependence on
+an external agreement. NEWater improves resilience, but it needs technology,
+energy, monitoring, public trust, and industrial compliance.
+
+Build the six-link chain. Place: Singapore. Issue: water security in a small,
+land-scarce, highly urbanized country. Causes: limited natural freshwater,
+limited land for catchment, high demand, economic growth, population needs, and
+climate uncertainty. Impacts: risk of dependence, drought vulnerability,
+competition between domestic and industrial water use, and the need for reliable
+infrastructure. Response: Four National Taps, demand management, water pricing,
+efficiency labels, water recycling, NEWater, desalination, catchment expansion,
+drainage, and public education. Evaluation: Singapore shows that scarcity can
+be managed through governance and technology, but the strategy is costly and
+energy intensive, and long-term security still depends on demand reduction,
+public trust, and climate resilience.
+
+This case is excellent for the Malthusian and Boserupian debate. A Malthusian
+view would emphasize physical limits: small land area, no large rivers, rising
+demand, and climate uncertainty. A Boserupian view would emphasize innovation:
+NEWater, desalination, catchment expansion, efficiency, and governance. The
+best answer weighs both. Technology can reduce scarcity, but it does not remove
+trade-offs in energy use, cost, dependency, and unequal capacity between places.
+
+Minute 8 to 10: comparing the two resource cases.
+
+Compare China e-waste and Singapore water because the contrast is strong. The
+China case starts with overconsumption and waste disposal in a globalized
+economy. The Singapore case starts with physical scarcity and the need for
+planned supply. China is useful for circular economy, externalized costs, trade,
+pollution, and product life cycles. Singapore is useful for water security,
+stewardship, technology, demand management, and governance.
+
+The two cases also show two different meanings of resource security. In the
+e-waste case, security is about recovering materials safely and avoiding
+pollution. Valuable metals are present, but poor systems mean they are lost or
+handled dangerously. In the Singapore case, security is about reliable water
+supply despite limited local resources. The resource is physically limited, but
+planning can improve access.
+
+Use the same evaluation criteria for both: effectiveness, equity, cost, time
+scale, and side effects. China's import restrictions may be effective for
+reducing foreign waste inflows and local pollution risk, but side effects
+include displaced waste flows and pressure on exporting countries that lack
+domestic recycling capacity. Singapore's water strategy is effective for
+diversifying supply, but it is expensive, technology dependent, and some taps
+are energy intensive. Equity also matters. A wealthy city-state may afford
+advanced desalination and reclaimed water systems; many water-stressed places
+cannot copy the model without finance, technical capacity, governance, and
+public trust.
+
+This comparison gives you a strong Paper 2 paragraph. Resource stewardship is
+most successful when it changes the whole system rather than moving pressure
+elsewhere. China's waste-import restrictions changed the geography of waste,
+but global e-waste keeps rising unless consumption, design, repair, and formal
+recycling improve. Singapore's water strategy improves security through
+diversified supply and demand management, but it must manage energy use and
+future demand. Therefore, stewardship is not a single project; it is long-term
+governance of production, consumption, waste, technology, and behavior.
+
+Add the water-energy-food nexus whenever the source points toward linked
+systems. Singapore's water case is not only about water. NEWater and
+desalination need energy, industry needs reliable water, and climate
+uncertainty can affect both supply and demand. E-waste is also a nexus issue
+because electronics contain metals, plastics, energy embodied in manufacturing,
+and pollution risks at disposal. A strong Paper 2 answer can say that resource
+security is connected across systems: solving one pressure can create another
+unless stewardship considers the full chain from extraction to consumption to
+waste.
+
+Now add theory. A Malthusian or neo-Malthusian answer emphasizes limits:
+population growth, rising consumption, finite water, waste accumulation,
+pollution, and environmental thresholds. A Boserupian or anti-Malthusian answer
+emphasizes innovation: water recycling, desalination, circular economy,
+efficiency, product redesign, and better governance. Do not memorize one side
+as correct. Use cases to judge. Singapore supports the innovation argument, but
+only because it has finance, technical capacity, institutions, and public
+trust. Global e-waste supports the limits argument because technology use is
+rising faster than formal recycling. The strongest answer says that innovation
+can reduce resource insecurity, but it is uneven between places and may create
+new costs.
+
+For a short response, keep the chain tight. Example one: global e-waste reached
+62 billion kilograms in 2022, but only 22.3 percent was formally collected and
+recycled; therefore valuable materials are lost and hazardous substances create
+pollution risk. China tightening waste imports exposed the weakness of relying
+on exports, so a circular economy is needed. However, that requires regulation,
+producer responsibility, repairable design, and safe recycling infrastructure.
+Example two: Singapore's limited natural freshwater creates water-security
+risk, but the Four National Taps diversify supply. However, desalination is
+energy intensive and future demand is expected to almost double by 2065, so
+conservation and efficiency remain essential.
+
+Minute 10 to 12: exam-ready resource chains.
+
+For a visual stimulus on resource consumption, use this order. First, describe
+the visible trend or pattern. Second, name the resource pressure: water, energy,
+food, minerals, waste, or land. Third, explain the driver: population growth,
+income growth, urbanization, consumer culture, technology, diet, or trade.
+Fourth, state the impact: insecurity, price, pollution, health risk, emissions,
+ecosystem stress, or conflict risk. Fifth, add stewardship and evaluation.
+
+If the source shows rising waste, use the e-waste chain: rising consumption and
+short product life cycles increase e-waste; formal recycling has not kept up;
+hazardous and valuable materials are mismanaged; China's waste restrictions
+show that exporting waste is not a sustainable solution; circular economy and
+producer responsibility can help, but only with collection systems, regulation,
+repair, design change, and safe processing.
+
+If the source shows water scarcity, use the Singapore chain: limited local
+freshwater and rising demand create water-security risk; Singapore responds
+with local catchment, imported water, NEWater, desalination, conservation, and
+pricing; this improves resilience, but the strategy is expensive and partly
+energy intensive, so demand management and continued innovation remain
+important.
+
+When you choose which case to use, match the case to the question. If the
+question asks about unequal consumption, e-waste is stronger because it shows
+how high-consuming societies can shift waste and pollution pressures elsewhere.
+If the question asks about resource management in a place with physical
+scarcity, Singapore water is stronger. If the question asks about stewardship
+in general, compare both: China shows the limits of a linear system, while
+Singapore shows the strengths and costs of planned circular or diversified
+management. That comparison is useful because it prevents a one-example answer
+from sounding universal.
+
+Also protect the word "security." Do not use it as a synonym for "supply."
+Security includes reliability, affordability, quality, acceptability, and
+stability over time. In e-waste, security can mean recovering metals safely and
+reducing pollution risk. In water, security means reliable clean water for
+households, industry, and public services even during dry periods or political
+uncertainty. This wider definition helps you explain why governance matters as
+much as physical resources.
+
+Keep command terms precise. Describe the pattern. Explain the cause. Analyse
+the relationship between consumption, security, and impact. Evaluate the
+response by asking how well it works, for whom, at what cost, and with what
+side effects. That is the difference between a memorized case and an exam-ready
+case.
+
+End Audio 2 by saying two chains from memory.
+
+E-waste chain: high consumption -> short product life -> waste trade ->
+pollution and lost materials -> China import restrictions and circular economy
+responses -> limitation: global waste generation still needs source reduction
+and safe recycling.
+
+Singapore water chain: physical scarcity and rising demand -> water-security
+risk -> Four National Taps and conservation -> more resilient supply ->
+limitation: energy, cost, dependency, public trust, and future demand.
