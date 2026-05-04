@@ -16,9 +16,9 @@
   - Urban environments
 - Do more web research
 
-Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please creat materials for May 4th  and put them into directory "plans"
+Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please creat materials for May 5th  and put them into directory "plans"
 
-Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please review the materials in directory "plans" for May 4th 
+Following ib-geography-sl-preparation-plan-2026-04-23-to-2026-05-11.md, please review the materials in directory "plans" for May 5th 
 
 based on plans\2026-05-02-paper-1-full-simulation-marking-guide.tex,
 please mark plans\2026-05-02-paper-1-full-simulation-studen-work.md and write summary and recommendations to plans\2026-05-02-paper-1-full-simulation-teacher.tex
