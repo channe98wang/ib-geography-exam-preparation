@@ -25,3 +25,7 @@ please mark plans\2026-05-02-paper-1-full-simulation-studen-work.md and write su
 
 based on plans\2026-05-02-paper-1-full-simulation-marking-guide.tex,
 Please review plans\2026-05-02-paper-1-full-simulation-teacher.tex 
+
+plans\2026-05-02-paper-1-full-simulation-studen-work-food-and-health.md is the student work for plans\2026-05-02-paper-1-full-simulation-question-paper.tex. Please evalaute it and write your report to plans\2026-05-02-paper-1-full-simulation-teacher-food-and-health.tex
+
+Please review plans\2026-05-02-paper-1-full-simulation-teacher-food-and-health.tex for accuracy and completeness.
