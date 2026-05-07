@@ -1,0 +1,280 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.72in]{geometry}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{hyperref}
+\usepackage{tikz}
+
+\definecolor{TextInk}{HTML}{233142}
+\definecolor{HeadingBlue}{HTML}{1D3557}
+\definecolor{AccentTeal}{HTML}{2A7F92}
+\definecolor{AccentGold}{HTML}{C58B4E}
+\definecolor{AccentRed}{HTML}{B85C5A}
+\definecolor{RuleGray}{HTML}{D6E0E5}
+\definecolor{TableStripe}{HTML}{F3F8FA}
+\definecolor{SoftBlue}{HTML}{EEF6F8}
+\definecolor{SoftRed}{HTML}{FBF0EF}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=HeadingBlue,
+  urlcolor=AccentTeal,
+  pdftitle={IB Geography SL Paper 1 Full Simulation Set 2 - 2026-05-07},
+  pdfauthor={IB Geography SL Preparation}
+}
+
+\color{TextInk}
+\setlength{\parskip}{0.45em}
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.16}
+\setlist[enumerate]{leftmargin=1.55em,itemsep=5pt,topsep=5pt}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+\titleformat{\section}
+  {\normalfont\huge\sffamily\bfseries\color{HeadingBlue}}
+  {}{0pt}{}
+  [\vspace{0.12em}{\color{AccentGold}\titlerule[1pt]}]
+\titleformat{\subsection}
+  {\normalfont\Large\sffamily\bfseries\color{AccentTeal}}
+  {}{0pt}{}
+\titleformat{\subsubsection}
+  {\normalfont\large\sffamily\bfseries\color{HeadingBlue}}
+  {}{0pt}{}
+
+\pagestyle{fancy}
+\setlength{\headheight}{14pt}
+\fancyhf{}
+\fancyhead[L]{\sffamily\color{AccentTeal}Set 2}
+\fancyhead[R]{\sffamily\color{HeadingBlue}Paper 1 Simulation}
+\fancyfoot[C]{\sffamily\color{HeadingBlue}\thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newcommand{\term}[1]{\textcolor{HeadingBlue}{\textbf{#1}}}
+\newcommand{\exam}[1]{\textcolor{AccentTeal}{\textbf{#1}}}
+\newcommand{\markpts}[1]{\hfill\textbf{[#1]}}
+\newcommand{\boxnote}[3]{%
+\noindent\colorbox{#1}{%
+  \begin{minipage}{0.965\textwidth}
+  \sffamily
+  \textbf{\textcolor{HeadingBlue}{#2}} #3
+  \end{minipage}
+}}
+
+\begin{document}
+
+\begin{center}
+  {\sffamily\bfseries\color{HeadingBlue}\LARGE IB Geography SL}\\[0.2em]
+  {\sffamily\bfseries\color{AccentTeal}\Large Paper 1 Full Simulation: Set 2}\\[0.3em]
+  {\sffamily\color{TextInk}Thursday 2026-05-07: Urban Environments + Food And Health}
+\end{center}
+
+\boxnote{SoftRed}{Practice-paper notice.}{This is an IB-style practice paper
+created for revision. It is not an official IB past paper or official IB mark
+scheme. Complete it without notes before using the marking guide.}
+
+\section{Instructions}
+
+\begin{tabularx}{\textwidth}{L{0.25\textwidth}Y}
+\toprule
+\textbf{Total time} & \term{1 hour 30 minutes}. Spend about \term{45 minutes}
+on each option. \\
+\textbf{Total marks} & \term{40 marks}. Urban environments is worth
+\term{20 marks}; Food and health is worth \term{20 marks}. \\
+\textbf{Structure} & Answer every structured question. For each option, choose
+\term{one} of the two 10-mark extended-answer prompts. \\
+\textbf{Materials} & Question paper, answer booklet, timer, and pen. Do not use
+notes during the simulation. \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Timing Checkpoints}
+
+\rowcolors{2}{TableStripe}{white}
+\begin{tabularx}{\textwidth}{L{0.18\textwidth}Y L{0.2\textwidth}}
+\toprule
+\textbf{Minute} & \textbf{Action} & \textbf{Marks done} \\
+\midrule
+0--2 & Read the Urban source and question choices. & 0 \\
+2--20 & Answer Urban structured questions 1--3. & 10 \\
+20--45 & Write one Urban 10-mark answer. & 20 \\
+45--47 & Switch to Food and health. & 20 \\
+47--65 & Answer Food and health structured questions 1--3. & 30 \\
+65--90 & Write one Food and health 10-mark answer. & 40 \\
+\bottomrule
+\end{tabularx}
+\rowcolors{2}{}{}
+
+\newpage
+
+\section{Option G: Urban Environments}
+
+\subsection{Source A: Urban Transport, Air Quality, And Access}
+
+Source A shows selected indicators for four zones in a large city. The data are
+illustrative and are provided for interpretation practice.
+
+\rowcolors{2}{TableStripe}{white}
+\begin{tabularx}{\textwidth}{L{0.19\textwidth}C{0.115\textwidth}C{0.115\textwidth}C{0.115\textwidth}C{0.115\textwidth}Y}
+\toprule
+\textbf{Zone} & \textbf{Frequent transit access} & \textbf{Average one-way commute}
+& \textbf{Air-pollution index} & \textbf{Green space per person} & \textbf{Main issue} \\
+\midrule
+Central high-density core & 91\% & 34 min & 72 & 5 m$^2$ & Congestion and
+low green space \\
+Transit corridor suburb & 74\% & 48 min & 45 & 18 m$^2$ & Good access but
+rising station-area rents \\
+Outer car-dependent suburb & 26\% & 67 min & 61 & 31 m$^2$ & Long commutes
+and land consumption \\
+Informal hillside settlement & 18\% & 59 min & 83 & 2 m$^2$ & Weak transit
+and poor air quality \\
+\bottomrule
+\end{tabularx}
+\rowcolors{2}{}{}
+
+\subsubsection{Visual Source A}
+
+Longer bars show higher values. The pollution index runs from 0 to 100, where
+higher values mean poorer air quality.
+
+\begin{center}
+\begin{tikzpicture}[x=0.085cm,y=0.53cm, every node/.style={font=\sffamily\small}]
+  \node[anchor=east] at (0,6.2) {Central core};
+  \draw[fill=AccentTeal!72, draw=none] (0,5.95) rectangle (91,6.35);
+  \draw[fill=AccentRed!70, draw=none] (0,5.45) rectangle (72,5.85);
+  \node[anchor=east] at (0,4.8) {Transit corridor};
+  \draw[fill=AccentTeal!72, draw=none] (0,4.55) rectangle (74,4.95);
+  \draw[fill=AccentRed!70, draw=none] (0,4.05) rectangle (45,4.45);
+  \node[anchor=east] at (0,3.4) {Outer suburb};
+  \draw[fill=AccentTeal!72, draw=none] (0,3.15) rectangle (26,3.55);
+  \draw[fill=AccentRed!70, draw=none] (0,2.65) rectangle (61,3.05);
+  \node[anchor=east] at (0,2.0) {Informal hillside};
+  \draw[fill=AccentTeal!72, draw=none] (0,1.75) rectangle (18,2.15);
+  \draw[fill=AccentRed!70, draw=none] (0,1.25) rectangle (83,1.65);
+  \foreach \x in {0,20,40,60,80,100} {
+    \draw[RuleGray] (\x,0.85) -- (\x,6.55);
+    \node[anchor=north] at (\x,0.75) {\x};
+  }
+  \node[anchor=west, color=AccentTeal] at (104,5.9) {Transit access};
+  \node[anchor=west, color=AccentRed] at (104,5.4) {Air-pollution index};
+\end{tikzpicture}
+\end{center}
+
+\subsection{Questions}
+
+Answer all parts. For Question 4, answer either \term{4(a)} or \term{4(b)}.
+
+\begin{enumerate}
+  \item \exam{State} two pieces of evidence from Source A that show uneven
+  access to sustainable transport or environmental quality. \markpts{2}
+
+  \item \exam{Describe} two contrasts between the transit corridor suburb and
+  the outer car-dependent suburb. \markpts{4}
+
+  \item \exam{Explain} two ways urban transport patterns can create social or
+  environmental stress. \markpts{4}
+
+  \item Answer either 4(a) or 4(b). \markpts{10}
+  \begin{enumerate}[label=\textbf{\alph*.},leftmargin=1.6em]
+    \item Using one named city, \exam{evaluate} the success of sustainable
+    transport strategies in managing urban environmental stress.
+
+    \item Using one or more named examples, \exam{to what extent} does urban
+    sprawl create greater challenges than high-density urban growth?
+  \end{enumerate}
+\end{enumerate}
+
+\newpage
+
+\section{Option F: Food And Health}
+
+\subsection{Source B: Food Security And Health After A Climate Shock}
+
+Source B shows selected indicators for four regions after an extended dry
+season and a rise in food prices. The data are illustrative.
+
+\rowcolors{2}{TableStripe}{white}
+\begin{tabularx}{\textwidth}{L{0.20\textwidth}C{0.12\textwidth}C{0.12\textwidth}C{0.12\textwidth}C{0.12\textwidth}Y}
+\toprule
+\textbf{Region} & \textbf{Food-insecure households} & \textbf{Child wasting}
+& \textbf{Safe water access} & \textbf{Food-price increase} & \textbf{Main health risk} \\
+\midrule
+Irrigated core & 12\% & 5\% & 93\% & 8\% & Lower risk, but high water use \\
+Dryland smallholder zone & 46\% & 21\% & 54\% & 36\% & Undernutrition and diarrhoeal disease \\
+Urban low-income district & 31\% & 9\% & 76\% & 28\% & Diet quality, food price, and sanitation stress \\
+Export farming belt & 18\% & 7\% & 84\% & 17\% & Uneven access for landless workers \\
+\bottomrule
+\end{tabularx}
+\rowcolors{2}{}{}
+
+\subsubsection{Visual Source B}
+
+Longer bars show higher values. Safe water access is beneficial; food
+insecurity and child wasting are vulnerabilities.
+
+\begin{center}
+\begin{tikzpicture}[x=0.09cm,y=0.5cm, every node/.style={font=\sffamily\small}]
+  \node[anchor=east] at (0,8.1) {Irrigated core};
+  \draw[fill=AccentTeal!72, draw=none] (0,7.85) rectangle (12,8.15);
+  \draw[fill=AccentGold!72, draw=none] (0,7.45) rectangle (5,7.75);
+  \draw[fill=HeadingBlue!45, draw=none] (0,7.05) rectangle (93,7.35);
+  \node[anchor=east] at (0,6.35) {Dryland smallholder};
+  \draw[fill=AccentTeal!72, draw=none] (0,6.10) rectangle (46,6.40);
+  \draw[fill=AccentGold!72, draw=none] (0,5.70) rectangle (21,6.00);
+  \draw[fill=HeadingBlue!45, draw=none] (0,5.30) rectangle (54,5.60);
+  \node[anchor=east] at (0,4.60) {Urban low-income};
+  \draw[fill=AccentTeal!72, draw=none] (0,4.35) rectangle (31,4.65);
+  \draw[fill=AccentGold!72, draw=none] (0,3.95) rectangle (9,4.25);
+  \draw[fill=HeadingBlue!45, draw=none] (0,3.55) rectangle (76,3.85);
+  \node[anchor=east] at (0,2.85) {Export farming};
+  \draw[fill=AccentTeal!72, draw=none] (0,2.60) rectangle (18,2.90);
+  \draw[fill=AccentGold!72, draw=none] (0,2.20) rectangle (7,2.50);
+  \draw[fill=HeadingBlue!45, draw=none] (0,1.80) rectangle (84,2.10);
+  \foreach \x in {0,20,40,60,80,100} {
+    \draw[RuleGray] (\x,1.35) -- (\x,8.45);
+    \node[anchor=north] at (\x,1.25) {\x\%};
+  }
+  \node[anchor=west, color=AccentTeal] at (104,7.85) {Food insecure};
+  \node[anchor=west, color=AccentGold] at (104,7.4) {Child wasting};
+  \node[anchor=west, color=HeadingBlue] at (104,6.95) {Safe water};
+\end{tikzpicture}
+\end{center}
+
+\subsection{Questions}
+
+Answer all parts. For Question 4, answer either \term{4(a)} or \term{4(b)}.
+
+\begin{enumerate}
+  \item \exam{State} two contrasts in food security or health vulnerability
+  shown in Source B. \markpts{2}
+
+  \item \exam{Describe} two patterns shown by the food insecurity, safe water,
+  and health-risk data in Source B. \markpts{4}
+
+  \item \exam{Explain} two ways a climate shock can worsen food insecurity or
+  health. \markpts{4}
+
+  \item Answer either 4(a) or 4(b). \markpts{10}
+  \begin{enumerate}[label=\textbf{\alph*.},leftmargin=1.6em]
+    \item Using one or more named examples, \exam{examine} the links between
+    malnutrition and disease.
+
+    \item Using one or more named examples, \exam{evaluate} the success of
+    strategies to improve food security after environmental or economic shocks.
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}
