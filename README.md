@@ -30,39 +30,79 @@ plans\2026-05-02-paper-1-full-simulation-studen-work-food-and-health.md is the s
 
 Please review plans\2026-05-02-paper-1-full-simulation-teacher-food-and-health.tex for accuracy and completeness.
 
+##################
 Covert
-plans\Geography_paper_1_SL_-2023-student-work-1.jpg
-plans\Geography_paper_1_SL_-2023-student-work-2.jpg
-plans\Geography_paper_1_SL_-2023-student-work-3.jpg
-plans\Geography_paper_1_SL_-2023-student-work-4.jpg
-to plans\Geography_paper_1_SL_-2023-student-work.md.
-plans\Geography_paper_1_SL_-2023-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
+plans\Geography_paper_1_SL_-2025-student-work-1.jpg
+plans\Geography_paper_1_SL_-2025-student-work-2.jpg
+plans\Geography_paper_1_SL_-2025-student-work-3.jpg
+plans\Geography_paper_1_SL_-2025-student-work-4.jpg
+to plans\Geography_paper_1_SL_-2025-student-work.md.
+plans\Geography_paper_1_SL_-2025-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
 
-please review plans\Geography_paper_1_SL_-2023-student-work.md for accuracy and completeness against its source jgp files
-plans\Geography_paper_1_SL_-2023-student-work-1.jpg
-plans\Geography_paper_1_SL_-2023-student-work-2.jpg
-plans\Geography_paper_1_SL_-2023-student-work-3.jpg
-plans\Geography_paper_1_SL_-2023-student-work-4.jpg
-plans\Geography_paper_1_SL_-2023-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
+please review plans\Geography_paper_1_SL_-2025-student-work.md for accuracy and completeness against its source jgp files
+plans\Geography_paper_1_SL_-2025-student-work-1.jpg
+plans\Geography_paper_1_SL_-2025-student-work-2.jpg
+plans\Geography_paper_1_SL_-2025-student-work-3.jpg
+plans\Geography_paper_1_SL_-2025-student-work-4.jpg
+plans\Geography_paper_1_SL_-2025-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
 
-plans\Geography_paper_1_SL_-2023-student-work.md
+####################
+plans\Geography_paper_1_SL_-2025-student-work.md
 is the student work for option F and G in 
-plans\Geography_paper_1__question_booklet_HL-2023.pdf and
-plans\Geography_paper_1__resource_booklet_HLSL.2023-paper5.jpeg
+plans\Geography_paper_1_question_booklet_SL-2025.pdf
 Please mark the student work following
-plans\Geography_paper_1__HLSL_markscheme-2023.pdf
+plans\Geography_paper_1_HLSL_markscheme-2025.pdf
 and write the report to 
-plans\Geography_paper_1_SL_-2023-teacher-work.tex
+plans\Geography_paper_1_SL_-2025-teacher-work.tex
 
+#############################
 
 Please review 
-plans\Geography_paper_1_SL_-2023-teacher-work.tex
+plans\Geography_paper_1_SL_-2025-teacher-work.tex
 It was created with: 
-plans\Geography_paper_1_SL_-2023-student-work.md
-plans\Geography_paper_1__question_booklet_HL-2023.pdf,
-plans\Geography_paper_1__resource_booklet_HLSL.2023-paper5.jpeg,
+plans\Geography_paper_1_SL_-2025-student-work.md
+plans\Geography_paper_1_question_booklet_SL-2025.pdf
 and
-plans\Geography_paper_1__HLSL_markscheme-2023.pdf
+plans\Geography_paper_1_HLSL_markscheme-2025.pdf
+
+
+##################
+Covert
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-1.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-2.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-3.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-4.jpg
+to 2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md.
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
+
+please review 2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md for accuracy and completeness against its source jgp files
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-1.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-2.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-3.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work-4.jpg
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md's content should match exctly the content in the 4 source jpg files, no any corrections, no any changes.
+
+####################
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md
+is the student work for option F and G in 
+plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex
+Please mark the student work following
+plans\2026-05-07-paper-1-full-simulation-set-2-marking-guide.tex
+and write the report to 
+2026-05-07-paper-1-full-simulation-set-2-question-paper-teacher-work.tex
+
+#############################
+
+Please review 
+2026-05-07-paper-1-full-simulation-set-2-question-paper-teacher-work.tex
+It was created with: 
+2026-05-07-paper-1-full-simulation-set-2-question-paper-student-work.md
+plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex
+and
+plans\2026-05-07-paper-1-full-simulation-set-2-marking-guide.tex
+
+##########################
+
 
 The goal of plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex
  is to match real paper 1 format with fresh contents.
@@ -71,6 +111,6 @@ plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex,
 plans\2026-05-07-paper-1-full-simulation-set-2-answer-booklet.tex,
 plans\2026-05-07-paper-1-full-simulation-set-2-marking-guide.tex
 against
-plans\Geography_paper_1__question_booklet_HL-2023.pdf, plans\Geography_paper_1_question_booklet_SL-2025.pdf,
-plans\Geography_paper_1__HLSL_markscheme-2023.pdf,
+plans\Geography_paper_1__question_booklet_HL-2025.pdf, plans\Geography_paper_1_question_booklet_SL-2025.pdf,
+plans\Geography_paper_1__HLSL_markscheme-2025.pdf,
 plans\Geography_paper_1_HLSL_markscheme-2025.pdf
