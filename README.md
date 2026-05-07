@@ -63,3 +63,14 @@ plans\Geography_paper_1__question_booklet_HL-2023.pdf,
 plans\Geography_paper_1__resource_booklet_HLSL.2023-paper5.jpeg,
 and
 plans\Geography_paper_1__HLSL_markscheme-2023.pdf
+
+The goal of plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex
+ is to match real paper 1 format with fresh contents.
+Please review
+plans\2026-05-07-paper-1-full-simulation-set-2-question-paper.tex,
+plans\2026-05-07-paper-1-full-simulation-set-2-answer-booklet.tex,
+plans\2026-05-07-paper-1-full-simulation-set-2-marking-guide.tex
+against
+plans\Geography_paper_1__question_booklet_HL-2023.pdf, plans\Geography_paper_1_question_booklet_SL-2025.pdf,
+plans\Geography_paper_1__HLSL_markscheme-2023.pdf,
+plans\Geography_paper_1_HLSL_markscheme-2025.pdf
