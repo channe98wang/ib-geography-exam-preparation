@@ -65,6 +65,39 @@ plans\Geography_paper_1_question_booklet_SL-2025.pdf
 and
 plans\Geography_paper_1_HLSL_markscheme-2025.pdf
 
+############
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.png
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-2.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-3.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-4.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-5.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-6.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-7.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-8.jpg
+are the student work for
+plans\Geography_paper_2__question_booklet_HLSL-2022.pdf
+Please mark them following
+plans\Geography_paper_2__HLSL_markscheme-2022.pdf
+and write the report to
+plans\Geography_paper_2__question_booklet_HLSL-2022-teach-report.tex
+
+######
+Please review
+plans\Geography_paper_2__question_booklet_HLSL-2022-teach-report.tex
+It was created with
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.png
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-2.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-3.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-4.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-5.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-6.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-7.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-8.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2022.pdf
+plans\Geography_paper_2__HLSL_markscheme-2022.pdf
+
 
 ##################
 Covert
@@ -114,3 +147,22 @@ against
 plans\Geography_paper_1__question_booklet_HL-2025.pdf, plans\Geography_paper_1_question_booklet_SL-2025.pdf,
 plans\Geography_paper_1__HLSL_markscheme-2025.pdf,
 plans\Geography_paper_1_HLSL_markscheme-2025.pdf
+
+
+IB Pass Years:
+https://ibresources.cc/mirrors2
+
+https://doxxib.pp.ua/IB%20PAST%20PAPERS%20-%20YEAR/
+
+https://repo.pirateib.sh/?p=IB+PAST+PAPERS+-+SUBJECT%2FGroup+3+-+Individuals+and+Societies%2FGeography_SL
+
+
+2025:
+https://doxxib.pp.ua/IB%20PAST%20PAPERS%20-%20YEAR/2025%20Examination%20Session/May%202025%20Examination%20Session/files%20and%20resources/Individuals_and_societies-eng.html
+
+2024:
+https://doxxib.pp.ua/IB%20PAST%20PAPERS%20-%20YEAR/2024%20Examination%20Session/May%202024%20Examination%20Session/HTML/index.html
+https://doxxib.pp.ua/IB%20PAST%20PAPERS%20-%20YEAR/2024%20Examination%20Session/November%202024%20Examination%20Session/files%20and%20resources/Individuals_and_societies-eng.html
+
+2023
+https://papers.xtremepape.rs/index.php?dirpath=./IB/2023+Examination+Session/May+2023+Examination+Session/Individuals+and+societies/&order=0
