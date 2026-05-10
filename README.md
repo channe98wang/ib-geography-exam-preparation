@@ -66,37 +66,39 @@ and
 plans\Geography_paper_1_HLSL_markscheme-2025.pdf
 
 ############
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.png
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-2.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-3.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-4.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-5.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-6.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-7.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-8.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-1.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-2.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-3.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-4.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-5.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-6.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-7.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-8.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-9.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-10.jpg
 are the student work for
-plans\Geography_paper_2__question_booklet_HLSL-2022.pdf
+plans\Geography_paper_2__question_booklet_HLSL-2023.pdf
 Please mark them following
-plans\Geography_paper_2__HLSL_markscheme-2022.pdf
+plans\Geography_paper_2__HLSL_markscheme-2023.pdf
 and write the report to
-plans\Geography_paper_2__question_booklet_HLSL-2022-teach-report.tex
+plans\Geography_paper_2__question_booklet_HLSL-2023-teach-report.tex
 
 ######
 Please review
-plans\Geography_paper_2__question_booklet_HLSL-2022-teach-report.tex
+plans\Geography_paper_2__question_booklet_HLSL-2023-teach-report.tex
 It was created with
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-1.png
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-2.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-3.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-4.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-5.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-6.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-7.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022-student-work-8.jpg
-plans\Geography_paper_2__question_booklet_HLSL-2022.pdf
-plans\Geography_paper_2__HLSL_markscheme-2022.pdf
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-1.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-2.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-3.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-4.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-5.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-6.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-7.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-8.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-9.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023-student-work-10.jpg
+plans\Geography_paper_2__question_booklet_HLSL-2023.pdf
+plans\Geography_paper_2__HLSL_markscheme-2023.pdf
 
 
 ##################
